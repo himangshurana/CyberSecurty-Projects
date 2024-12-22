@@ -6,7 +6,7 @@ Welcome to the **Cyber Security Projects** repository! This repository contains 
 
 Cybersecurity is essential in today's digital world. This repository aims to showcase a variety of projects that explore different aspects of cybersecurity, from vulnerability analysis to network security and cryptography. Each project is intended to help you gain practical knowledge and improve your skills in defending against cyber threats.
 
-![Cyber Security Banner](https://www.leapit.co.uk/wp-content/uploads/2019/11/Cyber-Security-Importance-1080x675.jpeg) 
+![Cyber Security Banner](https://atees.org/assets/project_technology_logo/2422cyber%20security.jpg) 
 
 ## Projects
 
