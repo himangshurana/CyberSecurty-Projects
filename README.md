@@ -2,19 +2,11 @@
 
 Welcome to the **Cyber Security Projects** repository! This repository contains various projects related to cybersecurity, ranging from basic security concepts to advanced tools and techniques.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Cybersecurity is essential in today's digital world. This repository aims to showcase a variety of projects that explore different aspects of cybersecurity, from vulnerability analysis to network security and cryptography. Each project is intended to help you gain practical knowledge and improve your skills in defending against cyber threats.
 
-![Cyber Security Banner](https://example.com/path-to-image.jpg)  <!-- Replace with actual image URL -->
+![Cyber Security Banner](https://www.leapit.co.uk/wp-content/uploads/2019/11/Cyber-Security-Importance-1080x675.jpeg) 
 
 ## Projects
 
