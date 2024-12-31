@@ -12,21 +12,10 @@ Cybersecurity is essential in today's digital world. This repository aims to sho
 
 Here are some of the notable cybersecurity projects included in this repository:
 
-1. **Project Name 1**  
-   _Description of the first project._  
-   ![Project 1 Image](https://example.com/path-to-image.jpg)  <!-- Replace with actual image URL -->
+1. **Wi-Fi Deauther Using ESP8266**  
+   _This report explains how to build and use a Wi-Fi deauther with an ESP8266 microcontroller. The project demonstrates how deauthentication attacks can disrupt wireless connections, emphasising the security risks in Wi-Fi networks. The purpose is to raise awareness about these vulnerabilities while promoting ethical usage._  
+   ![Project 1 Image](https://3.bp.blogspot.com/-dERmihP2kB0/WNLfXFSpfFI/AAAAAAAAGUU/Z49ZjchXgLIliWEpzzx8T55EGpHYPjP1ACLcB/s1600/esp8266.jpg)
 
-2. **Project Name 2**  
-   _Description of the second project._  
-   ![Project 2 Image](https://example.com/path-to-image.jpg)  <!-- Replace with actual image URL -->
-
-3. **Project Name 3**  
-   _Description of the third project._  
-   ![Project 3 Image](https://example.com/path-to-image.jpg)  <!-- Replace with actual image URL -->
-
-4. **Project Name 4**  
-   _Description of the fourth project._  
-   ![Project 4 Image](https://example.com/path-to-image.jpg)  <!-- Replace with actual image URL -->
 
 For more details about each project, please check the respective project folder.
 
